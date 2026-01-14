@@ -6,7 +6,7 @@ link to paper
 
 We hope to lower the entry barrier to functional MR imaging of plants for other researchers.
 
-# Licenses - GPL-3.0
+# Licenses
 
 All software is licensed under the terms of the GPL-3.0 licence and may be used, modified, and redistributed freely, provided that the source code and any derivative works are distributed under the same license.
 
