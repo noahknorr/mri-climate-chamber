@@ -1,6 +1,6 @@
 # mri-climate-chamber
 This is the repository for our open-source climate chamber with in-bore extension for plant MRI.
-Functionality of the different system components, performance characterization, and some exemplary measurments on plants can be found in the corresponding publication found under: 
+A technical description, Bill of Materials, performance characterization, and some exemplary measurments on plants can be found in the corresponding publication found under: 
 
 link to paper
 
