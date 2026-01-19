@@ -1,5 +1,6 @@
 # mri-climate-chamber
 This is the repository for our open-source climate chamber with in-bore extension for plant MRI.
+STEP files with the overall design, including the 3d-printed parts, as well as the layout for the custom PCBs can be downloaded and used according to the licence agreements. 
 A technical description, Bill of Materials, performance characterization, and some exemplary measurments on plants can be found in the corresponding publication found under: 
 
 link to paper
